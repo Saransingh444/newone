@@ -1,0 +1,57 @@
+.container {
+  width: 100%;
+}
+h1 {
+  background-color: rgb(230, 233, 233);
+  font-size: 4rem;
+  margin-bottom: 0;
+  text-align: center;
+}
+p {
+  background-color: rgb(233, 231, 225);
+  font-size: 2rem;
+  text-align: center;
+}
+.img-div {
+  background-color: white;
+  padding: 15px;
+  margin:0;
+}
+.img {
+  image-resolution: 50%;
+  max-width: 100%;
+  display: block;
+}
+figcaption {
+  text-transform: lowercase;
+  font-size: 5mm;
+  color: black;
+}
+h3 {
+  width: 70%;
+  font-size: 2rem;
+  color: black;
+}
+ul {
+  max-width: 800px;
+  line-height: 1.6;
+  font-size: 5mm;
+  color: black
+}
+blockquote {
+  font-style: italic;
+  text-align: center;
+  max-width: 570px;
+  margin: 0 auto 90px auto;
+}
+cite {
+  float: right;
+  font-size: 7mm;
+}
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
